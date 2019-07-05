@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51.304" height="54.889" viewBox="0 0 51.304 54.889">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="22.854" height="22.854" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="expand" transform="translate(-618 -518.586)">
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="25.652" cy="27.444" rx="25.652" ry="27.444" transform="translate(618 518.586)" fill="rgba(40,197,237,0.5)"/>
+    <g id="Composant_1_2" data-name="Composant 1 – 2" transform="translate(649.76 564.224) rotate(177)" clip-path="url(#clip-path)">
+      <g id="Groupe_1" data-name="Groupe 1" transform="translate(-815.387 73.444) rotate(-45)">
+        <path id="Tracé_1" data-name="Tracé 1" d="M731.27,592.691l5.929,5.961-6.408,5.223" transform="translate(-100.468 -57.548)" fill="none" stroke="#707070" stroke-width="2"/>
+        <path id="Tracé_2" data-name="Tracé 2" d="M725.988,605.685H715.073" transform="translate(-90.074 -64.857)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Composant_1_3" data-name="Composant 1 – 3" transform="translate(637.932 529.389) rotate(-2)" clip-path="url(#clip-path)">
+      <g id="Groupe_1-2" data-name="Groupe 1" transform="translate(-815.387 73.444) rotate(-45)">
+        <path id="Tracé_1-2" data-name="Tracé 1" d="M731.27,592.691l5.929,5.961-6.408,5.223" transform="translate(-100.468 -57.548)" fill="none" stroke="#707070" stroke-width="2"/>
+        <path id="Tracé_2-2" data-name="Tracé 2" d="M725.988,605.685H715.073" transform="translate(-90.074 -64.857)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
